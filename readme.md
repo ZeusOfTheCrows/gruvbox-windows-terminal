@@ -1,5 +1,5 @@
 # Gruvbox theme for Windows Terminal
-A collection of gruvbox themes for windows terminal, originally by [russdb](https://github.com/russdb/gruvbox-windows-terminal)
+A collection of [gruvbox](https://github.com/gruvbox-community/gruvbox) themes for windows terminal, originally by [russdb](https://github.com/russdb/gruvbox-windows-terminal)
 
 ### Install  (I hope this will be easier in future):
 
