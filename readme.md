@@ -1,13 +1,14 @@
 # Gruvbox theme for Windows Terminal
 A collection of gruvbox themes for windows terminal, originally by [russdb](https://github.com/russdb/gruvbox-windows-terminal)
 
-### Install:
+### Install  (I hope this will be easier in future):
 
  * Open Windows Terminal
  * Open settings (Ctrl+,)
  * Click Open JSON file (bottom left)
  * Search for '"schemes":'
  * Copy the contents of gruvbox_light or gruvbox_dark (or both) to inside the square brackets (WT should organise them automatically)
+ * In WT settings, choose the profile you use (cmd, ps, etc.), go to the appearance tab, and choose your preferred colour scheme
 
 ### To check install:
 
